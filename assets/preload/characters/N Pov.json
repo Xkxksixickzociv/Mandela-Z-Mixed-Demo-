@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				5,
+				-11
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "N Pov Idle"
+		},
+		{
+			"offsets": [
+				3,
+				109
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "N Pov Up"
+		},
+		{
+			"offsets": [
+				150,
+				-56
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "N Pov Left"
+		},
+		{
+			"offsets": [
+				19,
+				-134
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "N Pov Down"
+		},
+		{
+			"offsets": [
+				-65,
+				-40
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "N Pov Right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/N Pov",
+	"position": [
+		840,
+		-130
+	],
+	"healthicon": "N",
+	"flip_x": false,
+	"healthbar_colors": [
+		45,
+		0,
+		63
+	],
+	"camera_position": [
+		300,
+		120
+	],
+	"sing_duration": 6.1,
+	"scale": 0.7
+}

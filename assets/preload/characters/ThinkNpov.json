@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-3,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Npov Idle"
+		},
+		{
+			"offsets": [
+				342,
+				-27
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Npov Left"
+		},
+		{
+			"offsets": [
+				98,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Npov Right"
+		},
+		{
+			"offsets": [
+				5,
+				36
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Npov Up"
+		},
+		{
+			"offsets": [
+				-4,
+				-256
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Npov Down"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/ThinkNpov",
+	"position": [
+		-560,
+		-1220
+	],
+	"healthicon": "Eyes",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		-292,
+		660
+	],
+	"sing_duration": 6.1,
+	"scale": 0.5
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "ThinkN Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				33,
+				39
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "ThinkN Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-58,
+				45
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "ThinkN Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-2,
+				181
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "ThinkN Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				18,
+				-55
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "ThinkN Down",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/ThinkN",
+	"position": [
+		-210,
+		-190
+	],
+	"healthicon": "Eyes",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		250,
+		140
+	],
+	"sing_duration": 6.1,
+	"scale": 0.9
+}

@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-9,
+				-5
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "ThinkAlt Idle"
+		},
+		{
+			"offsets": [
+				15,
+				6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "ThinkAlteye Left"
+		},
+		{
+			"offsets": [
+				-16,
+				-23
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "ThinkAlteye Right"
+		},
+		{
+			"offsets": [
+				-10,
+				22
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "ThinkAlteye Up"
+		},
+		{
+			"offsets": [
+				0,
+				-47
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "ThinkAlteye Down"
+		},
+		{
+			"offsets": [
+				15,
+				6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "ThinkAlt Left"
+		},
+		{
+			"offsets": [
+				-16,
+				-23
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "ThinkAlt Right"
+		},
+		{
+			"offsets": [
+				-10,
+				22
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "ThinkAlt Up"
+		},
+		{
+			"offsets": [
+				0,
+				-47
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "ThinkAlt Down"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/ThinkAlt",
+	"position": [
+		-90,
+		-50
+	],
+	"healthicon": "Eyes",
+	"flip_x": true,
+	"healthbar_colors": [
+		22,
+		22,
+		22
+	],
+	"camera_position": [
+		190,
+		100
+	],
+	"sing_duration": 6.1,
+	"scale": 1.3
+}

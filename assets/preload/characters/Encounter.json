@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				5,
+				-11
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Encounter Idle"
+		},
+		{
+			"offsets": [
+				-31,
+				320
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Encounter Up"
+		},
+		{
+			"offsets": [
+				460,
+				84
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Encounter Left"
+		},
+		{
+			"offsets": [
+				80,
+				-204
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Encounter Down"
+		},
+		{
+			"offsets": [
+				-5,
+				55
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Encounter Right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Encounter",
+	"position": [
+		-1720,
+		-510
+	],
+	"healthicon": "Encounter",
+	"flip_x": true,
+	"healthbar_colors": [
+		45,
+		0,
+		63
+	],
+	"camera_position": [
+		-640,
+		220
+	],
+	"sing_duration": 6.1,
+	"scale": 0.7
+}

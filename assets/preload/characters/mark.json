@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-4,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Mark Idle"
+		},
+		{
+			"offsets": [
+				25,
+				-26
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Mark Left"
+		},
+		{
+			"offsets": [
+				21,
+				-58
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Mark Down"
+		},
+		{
+			"offsets": [
+				6,
+				43
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Mark Up"
+		},
+		{
+			"offsets": [
+				-11,
+				-20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Mark Right"
+		},
+		{
+			"offsets": [
+				-4,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "pissbaby",
+			"indices": [],
+			"name": "YOU FUCKING BASTARD"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/Mark",
+	"position": [
+		-110,
+		280
+	],
+	"healthicon": "Mark",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		490,
+		-200
+	],
+	"sing_duration": 4,
+	"scale": 1.3
+}

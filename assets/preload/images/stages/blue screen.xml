@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-16"?>
+<TextureAtlas imagePath="blue screen.png">
+	<!-- Created with Adobe Flash CS6 version 12.0.0.481 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="blue screen0000" x="0" y="0" width="2765" height="1928"/>
+	<SubTexture name="blue screen0001" x="2765" y="0" width="2765" height="1928"/>
+	<SubTexture name="blue screen0002" x="0" y="1928" width="2765" height="1928"/>
+	<SubTexture name="blue screen0003" x="2765" y="1928" width="2765" height="1928"/>
+</TextureAtlas>
